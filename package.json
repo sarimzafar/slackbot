@@ -1,0 +1,19 @@
+{
+  "name": "demobot",
+  "version": "1.0.0",
+  "description": "demoing slack bot to understand and implement the slack bot api",
+  "main": "lib/norrisbot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sarimzafar/slackbot.git"
+  },
+  "author": "Sarim Zafar <sarim@deespacelab.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sarimzafar/slackbot/issues"
+  },
+  "homepage": "https://github.com/sarimzafar/slackbot#readme"
+}
